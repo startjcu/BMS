@@ -1,0 +1,8 @@
+{
+  "name": "BMS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:startjcu/BMS.git",
+  "author": "startjcu <startjcu@163.com>",
+  "license": "MIT"
+}
